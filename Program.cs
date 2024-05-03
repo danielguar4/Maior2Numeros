@@ -7,10 +7,10 @@ Console.Write("Digite o Segundo Numero....: ");
 Second = Convert.ToInt32(Console.ReadLine());
 
 if (First > Second)
-    {
-        Console.WriteLine($"O maior número é {First}");
-    }
+{
+    Console.WriteLine($"O maior número é {First}");
+}
 else
-    {
-        Console.WriteLine($"O maior número é {Second}");
-    }
+{
+    Console.WriteLine($"O maior número é {Second}");
+}
